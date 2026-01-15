@@ -1,4 +1,4 @@
-# DevOps Training Portal - Batch 80
+# DevOps Training Portal - i have changed the commit message to batch 80
 
 
 A beautiful Java web application for Jenkins, Docker, Kubernetes, and Terraform training by Kastro Kiran V.
