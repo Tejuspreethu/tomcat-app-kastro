@@ -49,8 +49,8 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Dr. Tejus Kiran V</h2>
-                        <p>DevOps Trainer cum Engineer</p>
+                        <h2>I'm Tejus H P V</h2>
+                        <p> Learning cloud and DevOps</p>
                     </div>
                 </div>
                 <div class="hero-stats">
