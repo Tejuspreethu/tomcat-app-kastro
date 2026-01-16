@@ -49,7 +49,7 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Tejus H P V</h2>
+                        <h2>I'm preetham</h2>
                         <p> Learning cloud and DevOps</p>
                     </div>
                 </div>
